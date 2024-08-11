@@ -1,0 +1,1 @@
+import kuchnhi from "./script.js";
